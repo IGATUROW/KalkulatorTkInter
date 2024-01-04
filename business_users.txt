@@ -1,0 +1,3 @@
+BusinessAccount (user_name= Krzak, account_number = 0011223344, pit_number = 3129, zus_number = 2578
+BusinessAccount (user_name= Magnolia, account_number = 1122334455, pit_number = 2539, zus_number = 7878
+BusinessAccount (user_name= Przebiœnieg, account_number = 2233445566, pit_number = 5629, zus_number = 9648
